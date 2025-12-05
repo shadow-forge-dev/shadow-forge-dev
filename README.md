@@ -1,6 +1,6 @@
 # anon-forge
 
-![Header](https://i.imgur.com/5Q6xG5E.gif)
+![header](https://raw.githubusercontent.com/itsnedum/hacker-gifs/main/gifs/glitch-header.gif)
 
 file: intelligence dossier  
 subject: anon-forge  
@@ -22,7 +22,7 @@ designation: system intruder
 discipline: reconnaissance engineering, exploitation research, structural system analysis  
 method: silent, low-noise, pattern-driven  
 
-![MatrixRain](https://i.imgur.com/LPDk8gK.gif)
+![matrix](https://raw.githubusercontent.com/itsnedum/hacker-gifs/main/gifs/matrix.gif)
 
 ---
 
@@ -35,7 +35,7 @@ method: silent, low-noise, pattern-driven
 • syscall and kernel-boundary analysis  
 • infrastructure reconnaissance frameworks  
 
-![GlitchBar](https://i.imgur.com/Sf7uG1D.gif)
+![scanline](https://raw.githubusercontent.com/itsnedum/hacker-gifs/main/gifs/scanline.gif)
 
 ---
 
@@ -57,7 +57,7 @@ workflow: observe → profile → dissect → forge → refine
 - low-noise intel collectors  
 - infrastructure fingerprinting  
 
-![ScanGIF](https://i.imgur.com/2L1ZEV2.gif)
+![loader](https://raw.githubusercontent.com/itsnedum/hacker-gifs/main/gifs/loading.gif)
 
 ---
 
@@ -71,7 +71,6 @@ analysis over assumption
 ---
 
 ## command sequence
-
 ```
 $ scan --surface
 $ trace --vectors
@@ -90,4 +89,5 @@ signal: near-zero
 trajectory: ascending  
 persistence: continuous  
 
-![Footer](https://i.imgur.com/5Q6xG5E.gif)
+![footer](https://raw.githubusercontent.com/itsnedum/hacker-gifs/main/gifs/footer-glitch.gif)
+
